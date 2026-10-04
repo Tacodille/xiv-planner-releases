@@ -43,6 +43,14 @@ This repository only holds the plugin's releases. The source isn't public.
   in whatever zone that leaves you, and it crafts there. If the zone has none, it uses the hub from Hub settings in the
   window: a housing ward on your current world (Lavender Beds ward 1 by default) or Old Gridania.
 - **New crafter?** Pick it and press Go: it does the unlock quests, equips the tool and makes a gearset first.
+- **It crafts the ingredients it can** (lumber, cloth, yarn, ingots...) from base mats instead of buying them, and their XP
+  counts towards the level. Cheaper in gil, more crafts. "Craft ingredients myself" in the window turns it off.
+- **Class quest hand-ins** it can craft at your level get crafted (two tries for HQ) before anything is bought.
+- **Selling**: crafted items worth listing on the market board (by recent sales on Universalis) are kept and shown in the
+  window; the rest go to a vendor through AutoRetainer.
+- **Repairs**: if your gear is under 70%, it crafts next to a mender so Artisan can repair there. In Artisan, tick
+  "Prioritize Repair NPC".
+- **Copy report** in the window copies what the run did, for sending to whoever's helping you.
 - **Known issue in Artisan 4.0.5.21**: crafts that need it to pick HQ or NQ ingredients fail inside Artisan
   (NightmareXIV/ECommons#182, PunishXIV/Artisan#299). The plugin leaves such recipes out and plans around them.
 - **GatherBuddy Reborn's route to Mist** can get stuck at the Limsa aetheryte menu. If an item keeps sending you there,
