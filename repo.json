@@ -1,0 +1,32 @@
+[
+  {
+    "Author": "Taco",
+    "Name": "XIV Planner",
+    "InternalName": "XivPlanner.Plugin",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "Pick a crafter and a target level and press Go. It plans from your bags, retainers and the game data, then fetches from retainers (Artisan), buys vendor items (GatherBuddy Reborn) and, only if you tick it, market board items within your price caps, crafts each step with Artisan, does the class quests with Questionable, sells what it crafts (AutoRetainer) and re-plans at every checkpoint. A Quests tab plans and runs quest chains. Needs Artisan, vnavmesh, Lifestream and Allagan Tools; the window lists the rest. English client only for market board buying.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Tacodille/xiv-planner-releases",
+    "Tags": [
+      "crafting",
+      "planner",
+      "levelling",
+      "automation",
+      "quests"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Levels a crafter to a target level by itself: plans, fetches, buys, crafts and does the class quests.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Tacodille/xiv-planner-releases/main/plugins/XivPlanner.Plugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Tacodille/xiv-planner-releases/main/plugins/XivPlanner.Plugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Tacodille/xiv-planner-releases/main/plugins/XivPlanner.Plugin/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1791115833,
+    "DownloadCount": 0
+  }
+]
