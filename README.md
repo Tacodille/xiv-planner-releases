@@ -39,8 +39,10 @@ This repository only holds the plugin's releases. The source isn't public.
   caps you set: a percentage over the planned price and a gil limit per stretch. It only presses Yes when the game's
   own prompt shows the quantity and price it expected.
 - **English game client only** for market board buying. On another language every purchase safely answers No.
-- **The hub** (Hub settings in the window) is where it goes for bells, boards and vendors: a housing district ward on
-  your current world, or Old Gridania. Defaults to the Lavender Beds, ward 1.
+- **Where it goes**: vendor items first (GatherBuddy Reborn goes wherever they're sold), then a bell and a market board
+  in whatever zone that leaves you, and it crafts there. If the zone has none, it uses the hub from Hub settings in the
+  window: a housing ward on your current world (Lavender Beds ward 1 by default) or Old Gridania.
+- **New crafter?** Pick it and press Go: it does the unlock quests, equips the tool and makes a gearset first.
 - **Known issue in Artisan 4.0.5.21**: crafts that need it to pick HQ or NQ ingredients fail inside Artisan
   (NightmareXIV/ECommons#182, PunishXIV/Artisan#299). The plugin leaves such recipes out and plans around them.
 - **GatherBuddy Reborn's route to Mist** can get stuck at the Limsa aetheryte menu. If an item keeps sending you there,
