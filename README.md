@@ -54,6 +54,18 @@ This repository only holds the plugin's releases. The source isn't public.
 - **Use up my mats** crafts whatever your bags can make on the class, best XP first, buying only small vendor bits
   (rivets and the like) to finish off mats you can't rebuy. It sells as it goes to keep room in your bags.
 - **Live XP**: the Run tab shows your XP bar, XP an hour lately and time to the next level and the target.
+- **Leves**: a "Leves worth taking" panel lists crafting leves that beat grinding, with the levemete and place. Accept
+  them yourself; the run crafts them (HQ where Artisan gets it) and tells you who to hand them to. 10 allowances are
+  kept back by default.
+- **Ishgard Restoration** (level 20+, once "Towards the Firmament" is done): if it beats grinding, the run crafts
+  Firmament collectables and tells you to hand them to Potkin. Whether Artisan reaches each collectability tier is up to
+  Artisan's collectable settings.
+- **Crafter's Grace and food**: it keeps an Engineering Manual's XP buff up, buying one with Grand Company seals when
+  you can afford it, and with "Cheap crafting food" ticked it buys and eats the strongest cheap crafting food.
+- **Plan for**: Cheapest (gil) or Fastest (fewer crafts and trips). **Clean up leftovers** sells mats a finished class
+  no longer needs.
+- **Leaves untested so far**: leves, Ishgard, manuals and food haven't been run in game yet. Send a Copy report if one
+  misbehaves.
 - **It crafts the ingredients it can** (lumber, cloth, yarn, ingots...) from base mats instead of buying them, and their XP
   counts towards the level. Cheaper in gil, more crafts. "Craft ingredients myself" in the window turns it off.
 - **Class quest hand-ins** it can craft at your level get crafted (two tries for HQ) before anything is bought.
