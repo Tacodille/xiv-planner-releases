@@ -64,7 +64,7 @@ This repository only holds the plugin's releases. The source isn't public.
   you can afford it, and with "Cheap crafting food" ticked it buys and eats the strongest cheap crafting food.
 - **Plan for**: Cheapest (gil) or Fastest (fewer crafts and trips). **Clean up leftovers** sells mats a finished class
   no longer needs.
-- **Leaves untested so far**: leves, Ishgard, manuals and food haven't been run in game yet. Send a Copy report if one
+- **Not tested in game yet**: leves, Ishgard, manuals and food haven't been run in game yet. Send a Copy report if one
   misbehaves.
 - **It crafts the ingredients it can** (lumber, cloth, yarn, ingots...) from base mats instead of buying them, and their XP
   counts towards the level. Cheaper in gil, more crafts. "Craft ingredients myself" in the window turns it off.
